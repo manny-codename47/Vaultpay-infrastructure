@@ -1,0 +1,6 @@
+*.terraform
+
+# State files: these can hold secrets like passwords, keys and resource IDs
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
